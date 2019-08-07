@@ -1,0 +1,17 @@
+{
+  "name": "discord-twitter-success",
+  "version": "1.0.0",
+  "description": "uses Axios and the Twitter API to automatically upload images from discord channels",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlie",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "twit": "^2.2.11"
+  }
+}
